@@ -1,7 +1,7 @@
 # Tic Tac Toe - Multiplayer
 A test project to experiment with Cocos Creator and Colyseus.
 
-Note: Undocumented code. For testing purposes only.
+Note: This project is for testing purposes only.
 
 ## Instructions
 - Run the server using Node.
@@ -12,3 +12,4 @@ Note: Undocumented code. For testing purposes only.
 ## Software Tools
 - Cocos Creator: https://www.cocos.com/en/creator
 - Colyseus: https://colyseus.io/
+- Node: https://nodejs.org/
